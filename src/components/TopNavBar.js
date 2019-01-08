@@ -1,8 +1,7 @@
-import logo from "../assets/images/logo.svg";
-import React from "react";
+import React from 'react';
+import logo from '../assets/images/logo.svg';
 
-
-export class TopBar extends React.Component {
+export class TopNavBar extends React.Component {
     render() {
         return (
             <header className="App-header">
