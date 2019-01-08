@@ -1,7 +1,7 @@
 import React from 'react';
 import {CountSlider} from "./CountSlider";
 import {ShotChart} from "./ShotChart";
-import {Row, Col, Radio} from "antd";
+import {Row, Col, Radio, Switch} from "antd";
 import _ from "lodash";
 
 
